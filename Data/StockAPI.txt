@@ -5,7 +5,9 @@ STOCKSYMBOL - is the stock symbol you want
 startDate  - is the older date range you are looking for
 EndDate - is the newer date in the range you are looking for
 
-http://quotes.wsj.com/STOCKSYMBOL/historical-prices/download?MOD_VIEW=page&num_rows=6299.041666666667&range_days=6299.041666666667&startDate=11/01/2018endDate=11/01/2019
-
+http://quotes.wsj.com/mon/historical-prices/download?MOD_VIEW=page&num_rows=6299.041666666667&range_days=6299.041666666667&startDate=11/01/2018endDate=11/01/2019
+http://quotes.wsj.com/ntfl/historical-prices/download?MOD_VIEW=page
+&num_rows=6299.041666666667&range_days=6299.041666666667&startDate=09/06/2000
+&endDate=12/05/2017
 
 This will load a CSV file into your windows dowload folder. 
